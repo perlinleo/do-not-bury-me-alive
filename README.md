@@ -1,7 +1,15 @@
-# do-not-bury-me-alive
+# MMO-2023
+
+Буллинг в школах - одна из ключевых причин психических расстройств. Эмпатия - клей, на котором держится общество!
+
+[![Kaggle link](https://img.shields.io/badge/буллинг%20в%20🇦🇷%20%20(2018)-из%20Kaggle-blue?&logo=kaggle)](https://www.kaggle.com/datasets/leomartinelli/bullying-in-schools)
 
 
-[![Kaggle link](https://img.shields.io/badge/изначальный%20датасет-Открыть-orange?style=social&logo=kaggle)](https://www.kaggle.com/datasets/leomartinelli/bullying-in-schools)
+[![NBViewer Link](https://img.shields.io/badge/ЛР%20№1-Открыть-orange?&logo=jupyter)](https://nbviewer.org/github/perlinleo/do-not-bury-me-alive/blob/master/bullying.ipynb)
+
+[![NBViewer Link](https://img.shields.io/badge/ЛР%20№2-Открыть-orange?&logo=jupyter)](https://nbviewer.org/github/perlinleo/do-not-bury-me-alive/blob/master/bullying.ipynb)
+
+# Датасет до нормализации
 
 |   Кол-во строк |   Кол-во столбцов |
 |----------------|-------------------|
